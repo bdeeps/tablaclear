@@ -1,0 +1,108 @@
+{
+  "slug": "tablaclear",
+  "box": 25,
+  "date": "2026-10-05",
+  "title": "TablaClear",
+  "question": "How does a tabla work?",
+  "hook": "Most drums just go thud. The tabla sings a note you can tune to a song, thanks to a black spot of iron-filing paste that C. V. Raman explained in 1920. Play the dayan and bayan in 3D, watch the drumhead's modes line up, and bend the bass with your palm.",
+  "thumbText": "HOW A TABLA WORKS",
+  "field": "sound",
+  "minutes": 12,
+  "tags": [
+    "tabla",
+    "dayan",
+    "bayan",
+    "syahi",
+    "drum",
+    "membrane",
+    "Bessel functions",
+    "harmonics",
+    "C. V. Raman",
+    "teentaal",
+    "Indian classical music",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two drums, one instrument",
+      "text": "The dayan is a hollowed block of sheesham wood played with the right hand; the bayan is a copper or brass bowl for the left. Each has a goatskin head, the pudi, with an outer ring (kinar), open skin (maidan) and a black spot (syahi), laced on by a braided gajra and leather straps with wooden gatta blocks."
+    },
+    {
+      "title": "A plain drumhead thuds",
+      "text": "A stretched round skin rings in patterns called modes, with still nodal lines and circles. Their frequencies follow the zeros of Bessel functions, 1 : 1.59 : 2.14 : 2.30 : 2.65, which are not whole-number multiples. With no harmonic series, the ear hears a thud, not a note."
+    },
+    {
+      "title": "Raman's black spot",
+      "text": "The syahi is many thin layers of paste made with iron filings, soot, rice and gum, heaviest at the centre. In 1920 C. V. Raman and Sivakali Kumar showed that this loading pulls the first nine modes into five groups at 1 : 2 : 3 : 4 : 5. That harmonic series is why the dayan has a pitch."
+    },
+    {
+      "title": "Where you strike picks the sound",
+      "text": "Na strikes the rim while the ring finger rests on the syahi's edge; the round modes are damped and bright harmonics ring. Tun strikes the centre, where only round modes move, for a deep tone. Ge is the bayan's open boom, ke its flat slap, and dha is na and ge together."
+    },
+    {
+      "title": "The bayan bends",
+      "text": "Pressing the heel of the palm into the bayan stretches its skin. The frequency grows with the square root of tension, f ∝ √T, so the boom glides up as the palm slides forward: the gamak that makes the tabla talk."
+    },
+    {
+      "title": "Tuned to Sa, keeping time",
+      "text": "Hammering the gattas down tightens the straps; tapping the gajra fine-tunes by a few cents, until the dayan rings at the song's Sa. Then the theka keeps the cycle: teentaal's 16 beats, with claps on 1, 5 and 13 and the bass falling silent at khali, beat 9."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Dayan and bayan",
+      "def": "The right-hand wooden drum with a clear pitch, and the left-hand metal bass drum."
+    },
+    {
+      "term": "Syahi",
+      "def": "The black spot on the head: layers of paste with iron filings that load the centre of the skin."
+    },
+    {
+      "term": "Mode",
+      "def": "One pattern a drumhead can vibrate in, with its own frequency and still nodal lines."
+    },
+    {
+      "term": "Bessel function",
+      "def": "The curve that describes how a round skin bends; its zeros set a plain drumhead's mode frequencies."
+    },
+    {
+      "term": "Harmonic series",
+      "def": "Overtones at 2, 3, 4, 5 times the lowest frequency, which our ears hear as one clear note."
+    },
+    {
+      "term": "Bol",
+      "def": "A spoken syllable for a tabla stroke, like na, tin, tun, ge, ke or dha."
+    },
+    {
+      "term": "f ∝ √T",
+      "def": "A stretched skin's frequency grows with the square root of its tension."
+    },
+    {
+      "term": "Gatta and gajra",
+      "def": "The wooden tuning blocks under the straps, and the braided rim that is tapped to fine-tune."
+    },
+    {
+      "term": "Teentaal",
+      "def": "A 16-beat rhythmic cycle in four sections, with a khali (empty) section where the bayan rests."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "tablaclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
